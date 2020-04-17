@@ -5,4 +5,4 @@
 
 <img src="images/stan_1.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to variance estimation through my work as a PhD Student at the [University of Wisconsin-Madison](https://edpsych.education.wisc.edu/academics/quantitative-methods/) in the department of Educational Psychology. 
+Hello, my name is Stan Lubanski. I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to variance estimation through my work as a PhD Student at the [University of Wisconsin-Madison](https://edpsych.education.wisc.edu/academics/quantitative-methods/) in the department of Educational Psychology. 
