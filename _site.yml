@@ -3,14 +3,12 @@ output_dir: "."
 navbar:
   title: "Stan Lubanski"
   left:
-    - text: "Writing"
+    - text: "Research"
       href: research.html
-    - text: "Speaking"
-      href: talks.html
-    - text: "Programming"
-      href: software.html
-    - text: "Teaching"
-      href: teaching.html
+    - text: "Blog"
+      href: blog.html
+    - text: "Fun"
+      href: fun.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
