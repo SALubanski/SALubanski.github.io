@@ -1,15 +1,24 @@
 name: "Stan Lubanski"
 output_dir: "."
+
+# navbar section configures the navigation bar at the top of the site
 navbar:
-  title: "Stan Lubanski"
+  # title shows up on the left on the navbar
+  title: "Stanley A. Lubanski"
+  
+  # These are the links on the left of the navbar
   left:
+      # Links are in the form of text
     - text: "Research"
       href: research.html
-    - text: "Blog"
-      href: blog.html
+    #- text: "Blog"
+    #  href: blog.html
     - text: "Fun"
       href: fun.html
+      
+  # these are the links on the right of the navbar
   right:
+      # links are in the form of icons
     - icon: fa-envelope fa-lg
       href: contact.html
     - icon: fa-github fa-lg
@@ -18,7 +27,23 @@ navbar:
       href: https://twitter.com/SALubanski
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/stanley-lubanski-714459a9/
+      
 output:
+
+  # setting output as 'html_document' here means all pages of the website
+  # will also render as an html_document by default
+  # but, even so, you can specify the ouput on each page, if you want it to
+  # be other than an html_document
   html_document:
-    theme: paper
+  
+    # highlight adjusts the theme for highlighting syntax of code
+    highlight: textmate
+    
+    # themes come from Bootswatch: https://bootswatch.com/3/
+    # downloaded themes are under: site-libs -> bootstrap 3.3.5 -> css
+    theme: sandstone
+    
+    include:
+      #after_body: footer.html
+      
     css: 'styles.css'

@@ -1,0 +1,10 @@
+---
+# title: "Blog"
+# author: "Stan Lubanski"
+# date: "4/17/2020"
+output: html_document
+---
+
+## Blog
+
+This section will contain blog articles that I've written.

@@ -1,0 +1,12 @@
+---
+#title: "Fun"
+#author: "Stan Lubanski"
+#date: "4/17/2020"
+output: html_document
+---
+  
+## Fun
+
+This section contains projects that I've worked on for fun.
+
+- Here is a [calculator](https://drive.google.com/open?id=1NlDphKzRDpHTy5k1IT-9ityXWW37Twim) I made in Google sheets for visualizing personality test results from [16 Personalities](https://www.16personalities.com/) in terms of the 8 cognitive functions of the Meyer-Briggs Type Indicator (MBTI). 

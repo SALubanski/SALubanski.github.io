@@ -1,0 +1,17 @@
+---
+# title: "Blog"
+# author: "Stan Lubanski"
+# date: "4/17/2020"
+output: html_document
+---
+
+## Research
+
+My research involves figuring out how much uncertainty there is in randomized experiments and how best to estimate that uncertainty. To do this, I create simulations in [R](https://cran.r-project.org/)
+and [RStudio](https://rstudio.com/).
+
+<p> You can find an abstract of my work [here](https://www.semanticscholar.org/paper/AN-EVALUATION-OF-PARAMETRIC-AND-NONPARAMETRIC-IN-Lubanski-Steiner/72204cacbbb76ca439396724846236e4426d7cd8)[^1]. This was the basis of my master's thesis and my presentations at the conference for the Society for Research on Educational Effectiveness (SREE, 2019) and the Joint Statistical Meetings (JSM, 2019). </p>
+
+<p> I have also co-authored a [book chapter](https://www.researchgate.net/publication/327324972_Matching_Strategies_for_Causal_Inference_with_Observational_Data_in_Education) on how to use matching techniques for causal inference with observational data. </p>
+
+[^1]: Interestingly, I never uploaded this pdf anywhere. I only directly submitted it to the SREE conference, which has not made it available. I can only assume a bot found it and uploaded it there. The website's listing is nice, though, as it features excerpts from the abstract for each of my references. 
