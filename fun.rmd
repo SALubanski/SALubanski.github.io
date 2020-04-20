@@ -10,3 +10,5 @@ output: html_document
 This section contains projects that I've worked on for fun.
 
 - Here is a [calculator](https://drive.google.com/open?id=1NlDphKzRDpHTy5k1IT-9ityXWW37Twim) I made in Google sheets for visualizing personality test results from [16 Personalities](https://www.16personalities.com/) in terms of the 8 cognitive functions of the Meyer-Briggs Type Indicator (MBTI). 
+
+- A couple years ago I saw this Vox Earworm video featuring "self-similarity" plots that showed how repetitive a song's lyrics are. I decided to replicate the plots using R; here is the [Github repo](https://github.com/SALubanski/lyric-self-similarity-plots). For example, here is one plot for Blink-182's "Down" ![](images/blink_182_-_down_self-sim_plot.png) 
