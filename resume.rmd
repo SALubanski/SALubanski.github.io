@@ -1,0 +1,14 @@
+---
+# title: "resume"
+# author: "Stan Lubanski"
+# date: "5/4/2020"
+output: html_document
+---
+
+## Resume
+
+<object data="files/resume-2020-05-04-personal-website.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="files/resume-2020-05-04-personal-website.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="files/resume-2020-05-04-personal-website.pdf">Download PDF</a>.</p>
+    </embed>
+</object>

@@ -13,4 +13,6 @@ This section contains projects that I've worked on for fun.
 
 - A couple years ago I saw this Vox Earworm video featuring "self-similarity" plots that showed how repetitive a song's lyrics are. I decided to replicate the plots using R; here is the [Github repo](https://github.com/SALubanski/lyric-self-similarity-plots). For example, here is one plot for Blink-182's "Down" 
 
-<img src="images/blink_182_-_down_self-sim_plot.png" style="width:30%; border:10px solid; margin-right: 20px" align="left">
+![Self-Similarity Plot for Blink-182's "Down"](images/blink_182_-_down_self-sim_plot.png)
+
+ <!-- <img src="images/blink_182_-_down_self-sim_plot.png" style="width:50%; border:5px solid; margin-left: 20px" align="center"> -->

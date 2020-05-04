@@ -9,6 +9,8 @@ navbar:
   # These are the links on the left of the navbar
   left:
       # Links are in the form of text
+    - text: "Resume"
+      href: resume.html
     - text: "Research"
       href: research.html
     #- text: "Blog"
